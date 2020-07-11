@@ -4,3 +4,4 @@ library(dslabs)
 data("murders")
 ggplot(murders)
 qplot(murders)
+
